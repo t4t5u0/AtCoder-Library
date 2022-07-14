@@ -161,7 +161,7 @@ data:
     - icon: ':warning:'
       path: Tree/SegTree.py
       title: Tree/SegTree.py
-    - icon: ':warning:'
+    - icon: ':heavy_check_mark:'
       path: Tree/UnionFindTree.py
       title: Tree/UnionFindTree.py
   - name: .
@@ -172,6 +172,9 @@ data:
   verificationCategories:
   - name: .
     pages:
+    - icon: ':heavy_check_mark:'
+      path: Unionfind.test.py
+      title: Unionfind.test.py
     - icon: ':heavy_check_mark:'
       path: example.test.cpp
       title: example.test.cpp
